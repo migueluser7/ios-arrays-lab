@@ -10,6 +10,7 @@ Create an array of strings called `colors` that contain "orange", "red", "yellow
 
 Then, using array subscripting and string interpolation, print out the String `"orange, yellow, and lavender are some of my favorite colors"`.
 
+var color: [
 
 ## Question 2
 
