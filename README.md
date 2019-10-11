@@ -29,7 +29,7 @@ Iterate through the array below. For each state, print out the name of the state
 
 `let moreStates = ["Hawaii", "New Mexico", "Alaska", "Montana", "Texas", "New York", "Florida"]`
 
-
+for
 ## Question 4
 
 Print out how many non-whitespace characters are in `myString`:
