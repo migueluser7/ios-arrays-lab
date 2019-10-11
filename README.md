@@ -10,7 +10,9 @@ Create an array of strings called `colors` that contain "orange", "red", "yellow
 
 Then, using array subscripting and string interpolation, print out the String `"orange, yellow, and lavender are some of my favorite colors"`.
 
-var color: [
+var colors = ["orange", "red", "yellow", "turquoise", "lavender"]
+
+print("\(colors[0]), \(colors[2]), and \(colors[4]) are some of my favorite colors")
 
 ## Question 2
 
@@ -18,6 +20,8 @@ Remove "Illinois" and "Kansas" from the array below.
 
 `var westernStates = ["California", "Oregon", "Washington", "Idaho", "Illinois", "Kansas"]`
 
+westernStates.remove(at: 4)
+westernStates.remove(at: 4)
 
 ## Question 3
 
